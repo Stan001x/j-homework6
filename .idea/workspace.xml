@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="57b593cf-fda0-41b8-ba73-d49d01ffe287" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../../j-homework2/sem2/src/main/java/org/example/Main1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../j-homework4/sem4/sem4/people" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Task2/obj/Debug/net6.0/Task2.GeneratedMSBuildEditorConfig.editorconfig" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Task2/obj/Debug/net6.0/Task2.GeneratedMSBuildEditorConfig.editorconfig" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Task2/obj/Debug/net6.0/Task2.assets.cache" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Task2/obj/Debug/net6.0/Task2.assets.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Task2/obj/Debug/net6.0/Task2.csproj.AssemblyReference.cache" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Task2/obj/Debug/net6.0/Task2.csproj.AssemblyReference.cache" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../../.." />
+  </component>
+  <component name="ProjectId" id="2TpvrBzKFOwkuIL5wQ5h4NVDkrB" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "last_opened_file_path": "C:/one drive/OneDrive/Документы/Разработчик/git-projects/Java/j-homework6/sem6"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="57b593cf-fda0-41b8-ba73-d49d01ffe287" name="Changes" comment="" />
+      <created>1691753033277</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1691753033277</updated>
+    </task>
+    <servers />
+  </component>
+</project>
